@@ -1,8 +1,8 @@
 <p align="middle">
-  <a target="_blank" href="https://olgabreydo.com">
+  <a href="https://olgabreydo.com" target="_blank">
     <img src="/images/olga.jpg" width="48%" />
   </a>
-  <a target="_blank" href="https://thomasbreydo.com">
+  <a href="https://thomasbreydo.com" target="_blank">
     <img src="/images/thomas.jpeg" width="48%" />
   </a>
 </p>
