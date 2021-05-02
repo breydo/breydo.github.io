@@ -1,5 +1,19 @@
-<figure class="half">
-    <a href="https://olgabreydo.com/"><img src="/images/olga.jpg"></a>
-    <a href="https://thomasbreydo.com/"><img src="/images/thomas.jpeg"></a>
-    <figcaption>Check out our websites</figcaption>
-</figure>
+<style>
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+</style>
+![Thomas Breydo >](/images/thomas.jpeg)
+![Olga Breydo <](/images/olga.jpg)
