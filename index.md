@@ -1,19 +1,6 @@
-<style>
-img[alt$=">"] {
-  float: right;
-}
+Check out our websites
 
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
-</style>
-![Thomas Breydo >](/images/thomas.jpeg)
-![Olga Breydo <](/images/olga.jpg)
+<p align="middle">
+  <a href="https://olgabreydo.com"><img src="/images/olga.jpg" width="48%" /></a>
+  <a href="https://olgabreydo.com"><img src="/images/thomas.jpeg" width="48%" /></a>
+</p>
