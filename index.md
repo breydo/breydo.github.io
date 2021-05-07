@@ -6,3 +6,4 @@
     <img src="/images/thomas.jpeg" width="48%" />
   </a>
 </p>
+<a href="http://instagram.com/thomasbreydo" style="color:white;">Instagram</a>
