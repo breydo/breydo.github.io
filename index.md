@@ -6,5 +6,3 @@
     <img src="/images/thomas.jpg" width="48%" />
   </a>
 </p>
-<a href="http://instagram.com/thomasbreydo" style="color:white;">Thomas's instagram</a>
-<a href="https://vimeo.com/user83900943" style="color:white;">Old vimeo</a>
