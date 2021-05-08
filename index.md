@@ -3,6 +3,6 @@
     <img src="/images/olga.jpg" width="48%" />
   </a>
   <a href="https://thomasbreydo.com" target="_blank">
-    <img src="/images/thomas.jpeg" width="48%" />
+    <img src="/images/thomas.jpg" width="48%" />
   </a>
 </p>
